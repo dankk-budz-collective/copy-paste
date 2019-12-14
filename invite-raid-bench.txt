@@ -1,4 +1,4 @@
-@Classic EU Starting invites for the <main/escort> raid.
+@Classic EU Starting invites for the `<main/escort>` raid.
 
 :small_orange_diamond: You can whisper me on `<name>` with the keyword `<keyword>` for an automatic invite.
 :small_orange_diamond: Before you whisper, check you are actually in the roster for today.
