@@ -1,0 +1,6 @@
+@Classic EU DMT buff check is now open. You can show them to `name` ingame. I'm ontop of the catapult next to Saurfang. To get an invite to the group, whisper `keyword` for automatic invite. `/w name keyword`.
+
+:small_red_triangle_down: __Important__: What we check for is the __stamina__ buff, always ensure you get it ontop of what your class wants.
+:small_orange_diamond: To show your DMT buffs, join the group. I will post a raid warning when I have seen your buffs. You can then log off or leave the group.
+
+__Deadline is `deadline`__

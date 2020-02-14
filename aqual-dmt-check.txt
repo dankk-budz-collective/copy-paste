@@ -1,6 +1,0 @@
-@Classic EU DMT buff and Aqual check is now open. You can show both to `name` ingame. I'm ontop of the catapult next to Saurfang. To get an invite to the group, whisper `keyword` for automatic invite. `/w name keyword`.
-
-:small_orange_diamond: To show your DMT buffs, join the group. I will post a raid warning when I have seen your buffs.
-:small_orange_diamond: To show your Aqual, open trade with me and put the Aqual into the trade window. You are accounted for when I accept the trade.
-
-__Deadline is `deadline`__
