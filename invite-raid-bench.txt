@@ -1,4 +1,4 @@
 @Classic EU Starting invites for the `main/escort` raid.
 
-:small_orange_diamond: You can whisper me on `name` with the keyword `keyword` for an automatic invite.
+:small_orange_diamond: You can whisper me for an automatic invite: `/w name keyword`.
 :small_orange_diamond: __Before you whisper__, check if you are actually in the roster for today.
