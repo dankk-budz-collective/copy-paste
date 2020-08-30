@@ -8,3 +8,4 @@
 :small_orange_diamond: `/w Budzshekel inv`
 :small_orange_diamond:  Once you have joined a raid __invited by this character__, you are accounted for and __can log out__ on that character. __Do not leave the raid though__.
 :small_orange_diamond: If you are not immediately getting an invite, then I probably have to switch groups, just try again in a minute or so.
+:small_orange_diamond: Bench DKP tally finishes when main raid moves out.
