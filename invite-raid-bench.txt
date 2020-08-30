@@ -1,4 +1,10 @@
-@Classic EU Starting invites for the `main/escort` raid.
+@Classic EU Starting invites!
 
-:small_orange_diamond: You can whisper me for an automatic invite: `/w name keyword`.
-:small_orange_diamond: __Before you whisper__, check if you are actually in the roster for today.
+:small_red_triangle_down: __If you are in the first raid today__:
+:small_orange_diamond: `/w Dokenbank inv` and wait for raid to start.
+
+
+:small_red_triangle_down: __If you are **not** in the first raid today or are benched today__:
+:small_orange_diamond: `/w Budzshekel inv`
+:small_orange_diamond:  Once you have joined a raid __invited by this character__, you are accounted for and __can log out__ on that character. __Do not leave the raid though__.
+:small_orange_diamond: If you are not immediately getting an invite, then I probably have to switch groups, just try again in a minute or so.
