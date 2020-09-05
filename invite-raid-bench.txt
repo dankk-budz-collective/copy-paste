@@ -7,5 +7,5 @@
 :small_red_triangle_down: __If you are **not** in the first raid today or are benched today__:
 :small_orange_diamond: `/w Budzshekel inv`
 :small_orange_diamond:  Once you have joined a raid __invited by this character__, you are accounted for and __can log out__ on that character. __Do not leave the raid though__.
-:small_orange_diamond: If you are not immediately getting an invite, then I probably have to switch groups, just try again in a minute or so.
-:small_orange_diamond: Bench DKP tally finishes when main raid moves out.
+:small_orange_diamond: If you are not immediately getting an invite, then I probably have to switch groups, just try again in 20 seconds or so.
+:small_orange_diamond: Bench DKP tally finishes when main raid moves out. Everyone who shows up after that will get the late penalty.
